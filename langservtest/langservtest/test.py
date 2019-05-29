@@ -1,5 +1,3 @@
-import requests
-
 # This fails
 from langservtest.errors import Test
 # Works:

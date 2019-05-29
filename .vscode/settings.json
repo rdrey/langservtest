@@ -1,0 +1,5 @@
+{
+    "python.jediEnabled": false,
+    "python.pythonPath": "/home/rainer/.virtualenvs/langeservtest/bin/python",
+    "python.analysis.logLevel": "Trace"
+}

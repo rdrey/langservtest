@@ -10,9 +10,9 @@ setup(name='langservtest',
       classifiers=[
           "Programming Language :: Python",
       ],
-      author='Ryan Smith',
-      author_email='ryan@uniregistry.com',
-      url='https://bitbucket.uniregistry.com/projects/RAR/repos/langservtest/browse',
-      keywords='web wsgi bfg pylons pyramid',
+      author='Rainer Dreyer',
+      author_email='rdrey1@gmail.com',
+      url='https://github.com/rdrey/langservtest',
+      keywords='vscode python language-server',
       packages=find_packages(),
 )
